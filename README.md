@@ -50,7 +50,7 @@ Finalizado
 
 Puedes acceder al proyecto a través del sig link: 
 
-
+https://github.com/d1egojr/challenge-telecomx-parte2.git
 
 <h3>Desarrollador de la aplicación</h3>
 
